@@ -29,10 +29,15 @@ firebase init
 
 # Add Firebase to your Flutter project
 flutter pub add firebase_core
+
 flutter pub add cloud_firestore
+
 flutter pub add firebase_auth
+
 flutter pub add firebase_storage
+
 flutter pub add firebase_analytics
+
 Also, don’t forget to configure firebase_options.dart using the FlutterFire CLI:
 
 flutterfire configure
