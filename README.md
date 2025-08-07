@@ -3,9 +3,13 @@ A simple and effective Inventory Management System built using Flutter, Dart, an
 
 # Features
 🔹 Firebase Integration for real-time database support
+
 🔹 CRUD Functionality: Add, read, update, and delete inventory items
+
 🔹 User-Friendly UI built with Flutter widgets
+
 🔹 Smooth Navigation between screens
+
 🔹 State Management using basic Flutter state tools
 
 # Tech Stack
